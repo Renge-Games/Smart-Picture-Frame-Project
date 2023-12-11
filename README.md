@@ -1,6 +1,6 @@
 # Multimodal Smart Picture Frame Project
 
-<img src="docs/frame1.jpg" alt="Picture Frame" width="300"/>       <img src="docs/frame2.jpg" alt="Picture Frame" width="300"/>
+<img src="docs/frame1.jpg" alt="Picture Frame" width="300"/>       <img src="docs/frame.jpg" alt="Picture Frame" width="300"/>
 
 This is a project to create a digital picture frame that takes user input in unconventional ways.
 
