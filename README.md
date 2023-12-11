@@ -1,4 +1,14 @@
-# smart-picture-frame-project
+# Multimodal Smart Picture Frame Project
+
+![](docs/frame1.jpg) ![](docs/frame2.jpg)
+
+This is a project to create a digital picture frame that takes user input in unconventional ways.
+
+- Face detection: used to "rate" the shown image. It works by increasing the image score while the user is looking at the image.
+- Hand tracking: perform a swipe gesture to go to the next/previous image in the rotation
+- Shake: shake the picture frame to go to the next image
+- Touch: uses the Bare Conductive "Pi Cap" to enable touch input on the sides of the frame. (The touchscreen on the picture-frame was deliberately avoided to create more of a challenge)
+- Scoring: images have a rating that drives their selection in the image rotation. Images with a higher score are more likely to be shown in the slideshow
 
 ## Install
 
