@@ -10,6 +10,14 @@ This is a project to create a digital picture frame that takes user input in unc
 - Touch: uses the Bare Conductive "Pi Cap" to enable touch input on the sides of the frame. (The touchscreen on the picture-frame was deliberately avoided to create more of a challenge)
 - Scoring: images have a rating that drives their selection in the image rotation. Images with a higher score are more likely to be shown in the slideshow
 
+## Hardware
+
+- Raspberry PI
+- Bare Conductive Pi Cap
+- Gyroscope module
+- Camera
+- 3D printed Frame
+
 ## Install
 
 First, clone the repo.
